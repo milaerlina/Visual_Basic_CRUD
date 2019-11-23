@@ -1,0 +1,23 @@
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db test.vbprojAssemblyReference.cache
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db_test.Form1.resources
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db_test.Resources.resources
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db test.vbproj.GenerateResource.cache
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db test.vbproj.CoreCompileInputs.cache
+C:\Users\Pilkom\Documents\vb\db test\db test\bin\Debug\db test.exe.config
+C:\Users\Pilkom\Documents\vb\db test\db test\bin\Debug\db test.exe
+C:\Users\Pilkom\Documents\vb\db test\db test\bin\Debug\db test.pdb
+C:\Users\Pilkom\Documents\vb\db test\db test\bin\Debug\db test.xml
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db test.exe
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db test.xml
+C:\Users\Pilkom\Documents\vb\db test\db test\obj\Debug\db test.pdb
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\bin\Debug\db test.exe.config
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db test.exe
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db test.xml
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db test.pdb
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\bin\Debug\db test.exe
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\bin\Debug\db test.pdb
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\bin\Debug\db test.xml
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db test.vbprojResolveAssemblyReference.cache
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db_test.Form1.resources
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db_test.Resources.resources
+C:\Users\DEKSTOP\Documents\Visual Studio 2015\Projects\db test\db test\obj\Debug\db test.vbproj.GenerateResource.Cache
